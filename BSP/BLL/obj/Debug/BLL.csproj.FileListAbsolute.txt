@@ -1,0 +1,30 @@
+F:\Data\Visual Studio Projects\BSP\BLL\bin\Debug\BLL.dll
+F:\Data\Visual Studio Projects\BSP\BLL\bin\Debug\BLL.pdb
+F:\Data\Visual Studio Projects\BSP\BLL\bin\Debug\BOL.dll
+F:\Data\Visual Studio Projects\BSP\BLL\bin\Debug\DAL.dll
+F:\Data\Visual Studio Projects\BSP\BLL\bin\Debug\EntityFramework.dll
+F:\Data\Visual Studio Projects\BSP\BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+F:\Data\Visual Studio Projects\BSP\BLL\bin\Debug\BOL.pdb
+F:\Data\Visual Studio Projects\BSP\BLL\bin\Debug\BOL.dll.config
+F:\Data\Visual Studio Projects\BSP\BLL\bin\Debug\DAL.pdb
+F:\Data\Visual Studio Projects\BSP\BLL\bin\Debug\EntityFramework.xml
+F:\Data\Visual Studio Projects\BSP\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+F:\Data\Visual Studio Projects\BSP\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+F:\Data\Visual Studio Projects\BSP\BLL\obj\Debug\BLL.csproj.CopyComplete
+F:\Data\Visual Studio Projects\BSP\BLL\obj\Debug\BLL.dll
+F:\Data\Visual Studio Projects\BSP\BLL\obj\Debug\BLL.pdb
+C:\Users\Palash\Downloads\BSP\BLL\bin\Debug\BLL.dll
+C:\Users\Palash\Downloads\BSP\BLL\bin\Debug\BLL.pdb
+C:\Users\Palash\Downloads\BSP\BLL\bin\Debug\BOL.dll
+C:\Users\Palash\Downloads\BSP\BLL\bin\Debug\DAL.dll
+C:\Users\Palash\Downloads\BSP\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Palash\Downloads\BSP\BLL\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Palash\Downloads\BSP\BLL\bin\Debug\BOL.pdb
+C:\Users\Palash\Downloads\BSP\BLL\bin\Debug\BOL.dll.config
+C:\Users\Palash\Downloads\BSP\BLL\bin\Debug\DAL.pdb
+C:\Users\Palash\Downloads\BSP\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Palash\Downloads\BSP\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Palash\Downloads\BSP\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Palash\Downloads\BSP\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Palash\Downloads\BSP\BLL\obj\Debug\BLL.dll
+C:\Users\Palash\Downloads\BSP\BLL\obj\Debug\BLL.pdb

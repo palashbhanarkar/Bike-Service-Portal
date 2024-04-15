@@ -1,0 +1,21 @@
+﻿@model IEnumerable<BOL.BSP_APPOINTMENT_SLOTNO>
+@{
+    ViewBag.Title = "BookAppointment";
+}
+
+<h2>BookAppointment</h2>
+<br />
+<form method="post">
+    <div>
+        <div style="text-align: center">
+            Select Date: <input type="date" name="date" id="date" data-validate="Date is required" />
+            <br /><br /><br /><br />
+            Select Slot Time:<p>@Html.DropDownList("slot", new SelectList(Model.Select(k => k.SLOT_TIME)), "----")</p>
+
+            <br /><br /><br /><br />
+
+            <button type="submit">Confirm Appointment</button>
+
+        </div>
+    </div>
+</form>

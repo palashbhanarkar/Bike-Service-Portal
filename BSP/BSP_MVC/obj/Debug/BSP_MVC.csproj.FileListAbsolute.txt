@@ -1,0 +1,178 @@
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\BSP_MVC.dll.config
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\BSP_MVC.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\BSP_MVC.pdb
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\csc.exe
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\csc.exe.config
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\csc.rsp
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\csi.exe
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\csi.exe.config
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\csi.rsp
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.AppContext.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Collections.Immutable.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Console.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.IO.Compression.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.IO.FileSystem.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.IO.Pipes.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Reflection.Metadata.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Security.AccessControl.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Security.Claims.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Security.Principal.Windows.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.ValueTuple.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Xml.XPath.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\vbc.exe
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\vbc.exe.config
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\vbc.rsp
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\VBCSCompiler.exe
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\roslyn\VBCSCompiler.exe.config
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\Antlr3.Runtime.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\BLL.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\BOL.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\EntityFramework.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\EntityFramework.SqlServer.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\Microsoft.Web.Infrastructure.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\Newtonsoft.Json.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\Oracle.ManagedDataAccess.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\System.Web.Helpers.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\System.Web.Mvc.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\System.Web.Optimization.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\System.Web.Razor.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\System.Web.WebPages.Deployment.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\System.Web.WebPages.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\System.Web.WebPages.Razor.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\WebGrease.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\DAL.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\BLL.pdb
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\BOL.pdb
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\BOL.dll.config
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\EntityFramework.xml
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\EntityFramework.SqlServer.xml
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\System.Web.Helpers.xml
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\System.Web.Mvc.xml
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\System.Web.Optimization.xml
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\System.Web.Razor.xml
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\System.Web.WebPages.xml
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\System.Web.WebPages.Deployment.xml
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\System.Web.WebPages.Razor.xml
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\Newtonsoft.Json.xml
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\Antlr3.Runtime.pdb
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\bin\DAL.pdb
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\obj\Debug\BSP_MVC.csprojAssemblyReference.cache
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\obj\Debug\BSP_MVC.csproj.CoreCompileInputs.cache
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\obj\Debug\BSP_MVC.csproj.CopyComplete
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\obj\Debug\BSP_MVC.dll
+F:\Data\Visual Studio Projects\BSP\BSP_MVC\obj\Debug\BSP_MVC.pdb
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\BSP_MVC.dll.config
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\BSP_MVC.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\BSP_MVC.pdb
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\csc.exe
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\csc.exe.config
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\csc.rsp
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\csi.exe
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\csi.exe.config
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\csi.rsp
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Console.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.IO.Compression.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Security.Claims.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.ValueTuple.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\vbc.exe
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\vbc.exe.config
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\vbc.rsp
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\Antlr3.Runtime.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\BLL.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\BOL.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\EntityFramework.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\Newtonsoft.Json.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\Oracle.ManagedDataAccess.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\System.Web.Helpers.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\System.Web.Mvc.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\System.Web.Optimization.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\System.Web.Razor.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\System.Web.WebPages.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\WebGrease.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\DAL.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\BLL.pdb
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\BOL.pdb
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\BOL.dll.config
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\EntityFramework.xml
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\System.Web.Helpers.xml
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\System.Web.Mvc.xml
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\System.Web.Optimization.xml
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\System.Web.Razor.xml
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\System.Web.WebPages.xml
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\Newtonsoft.Json.xml
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Palash\Downloads\BSP\BSP_MVC\bin\DAL.pdb
+C:\Users\Palash\Downloads\BSP\BSP_MVC\obj\Debug\BSP_MVC.csproj.AssemblyReference.cache
+C:\Users\Palash\Downloads\BSP\BSP_MVC\obj\Debug\BSP_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Palash\Downloads\BSP\BSP_MVC\obj\Debug\BSP_MVC.csproj.CopyComplete
+C:\Users\Palash\Downloads\BSP\BSP_MVC\obj\Debug\BSP_MVC.dll
+C:\Users\Palash\Downloads\BSP\BSP_MVC\obj\Debug\BSP_MVC.pdb

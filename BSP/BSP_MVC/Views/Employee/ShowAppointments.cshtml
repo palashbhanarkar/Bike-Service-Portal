@@ -1,0 +1,35 @@
+﻿@model IEnumerable<BOL.BSP_APPOINTMENT>
+@{
+    ViewBag.Title = "ShowAppointments";
+}
+
+<h2>All Appointments</h2>
+
+<br />
+<br />
+<link rel="stylesheet" href="../../Scripts/Display/w3.css">
+<div class="w3-container">
+    <table class="w3-table w3-bordered">
+        <tr>
+            <th>APPOINTMENT ID</th>
+            <th>APPOINTMENT DATE</th>
+            <th>APPOINTMENT SLOT</th>
+        </tr>
+        @{
+            foreach (BOL.BSP_APPOINTMENT ap in Model)
+            {
+
+                <tr>
+                    <td>@ap.APPOINTMENT_ID</td>
+                    <td>@ap.APPOINTMENT_DATE.Value.ToShortDateString()</td>
+                    <td>@ap.APPOINTMENT_SLOTNO</td>
+                </tr>
+            }
+        }
+
+    </table>
+</div>
+<br />
+<br />
+
+<a href="../Employee/HomePage">Go to Home Page</a><br />

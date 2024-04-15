@@ -1,0 +1,132 @@
+﻿@model BOL.BSP_CUSTOMER
+
+@{
+    ViewBag.Title = "SignUp";
+}
+
+
+
+
+<link rel="stylesheet" type="text/css" href="../../Scripts/login/vendor/bootstrap/css/bootstrap.min.css" id="bootstrap-css">
+<script src="../../Scripts/login/vendor/bootstrap/js/bootstrap.min.js"></script>
+<script src="../../Scripts/login/vendor/jquery/jquery-3.2.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+<!---*************welcome this is my simple empty strap by John Niro Yumang ******************* -->
+
+<title>Sign up</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<head>
+    <style>
+        body {
+            background-color: #eee;
+        }
+
+        .container-fluid {
+            padding: 50px;
+        }
+
+        .container {
+            background-color: white;
+            padding: 50px;
+        }
+
+        
+    </style>
+    <script src="jquery/jquery.min.js"></script>
+    <!---- jquery link local dont forget to place this in first than other script or link or may not work ---->
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!---- boostrap.min link local ----->
+
+    <link rel="stylesheet" href="css/style.css">
+    <!---- boostrap.min link local ----->
+    <script src="js/bootstrap.min.js"></script>
+    <!---- Boostrap js link local ----->
+
+    <link rel="icon" href="images/icon.png" type="image/x-icon" />
+    <!---- Icon link local ----->
+
+</head>
+<body>
+    <form role="form" method="post">
+        <div class="container-fluid">
+            <div class="container">
+                <h2 class="text-center" id="title">Customer SignUp</h2>
+
+                <hr>
+                <div class="row">
+                    <div class="col-md-5">
+
+                        <fieldset>
+                            <div class="form-group">
+
+                                @Html.TextBoxFor(m => Model.F_NAME, new { placeholder = "First Name", @class = "form-control input-lg" })
+                            </div>
+                            <div class="form-group">
+                                @*<input type="email" name="email" id="email" class="form-control input-lg" placeholder="Email Address">*@
+                                @Html.TextBoxFor(m => Model.L_NAME, new { placeholder = "Last Name", @class = "form-control input-lg" })
+                            </div>
+                            <div class="form-group">
+                                @*<input type="password" name="password" id="password" class="form-control input-lg" placeholder="Password">*@
+                                @Html.TextBoxFor(m => Model.MOBILE, new { @placeholder = "Mobile", @class = "form-control input-lg" })
+                            </div>
+                            <div class="form-group">
+                                <text>Date of Birth:</text>
+                                @*<input type="password" name="password2" id="password2" class="form-control input-lg" placeholder="Password2">*@
+                                @Html.EditorFor(model => model.DATE_OF_BIRTH,
+                                new { htmlAttributes = new { @class = "form-control input-lg", type = "date" } })
+                            </div>
+
+                            <div>
+                                <input type="submit" class="btn btn-lg btn-primary" value="Sign Up">
+                            </div>
+                        </fieldset>
+
+                    </div>
+
+                    <div class="col-md-2">
+                        <!-------null------>
+                    </div>
+
+                    <div class="col-md-5">
+
+                        <fieldset>
+
+                            <div class="form-group">
+                                @*<input type="email" name="username" id="username" class="form-control input-lg" placeholder="username">*@
+                                @Html.TextBoxFor(m => Model.EMAIL, new { placeholder = "Email", @class = "form-control input-lg" })
+                            </div>
+                            <div class="form-group">
+                                @*<input type="password" name="password" id="password" class="form-control input-lg" placeholder="Password">*@
+                                @Html.PasswordFor(m => Model.PASSWORD, new { placeholder = "Password", @class = "form-control input-lg" })
+                            </div>
+                            <div class="form-group">
+                                <text>Gender:</text>
+                                @{ List<SelectListItem> genders = new List<SelectListItem>();
+                                    genders.Add(new SelectListItem
+                                    {
+                                        Text = "Male",
+                                        Value = "Male"
+                                    });
+                                    genders.Add(new SelectListItem
+                                    {
+                                        Text = "Female",
+                                        Value = "Female",
+                                        
+                                    });
+                                }
+                                @Html.DropDownListFor(m => Model.GENDER, genders)
+                            </div>
+
+
+                        </fieldset>
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </form>
+</body>
+

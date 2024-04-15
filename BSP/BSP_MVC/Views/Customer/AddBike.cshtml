@@ -1,0 +1,99 @@
+﻿@model IEnumerable<BOL.BSP_BIKE_MODELS_ALL>
+
+
+@{
+    ViewBag.Title = "AddBike";
+}
+
+
+
+
+
+<link rel="stylesheet" type="text/css" href="../../Scripts/login/vendor/bootstrap/css/bootstrap.min.css" id="bootstrap-css">
+<script src="../../Scripts/login/vendor/bootstrap/js/bootstrap.min.js"></script>
+<script src="../../Scripts/login/vendor/jquery/jquery-3.2.1.min.js"></script>
+<!------ Include the above in your HEAD tag ---------->
+<!---*************welcome this is my simple empty strap by John Niro Yumang ******************* -->
+
+<title>Add Bike</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<head>
+    <style>
+        body {
+            background-color: #eee;
+        }
+
+        .container-fluid {
+            padding: 50px;
+        }
+
+        .container {
+            background-color: white;
+            padding: 50px;
+        }
+    </style>
+    <script src="jquery/jquery.min.js"></script>
+    <!---- jquery link local dont forget to place this in first than other script or link or may not work ---->
+
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <!---- boostrap.min link local ----->
+
+    <link rel="stylesheet" href="css/style.css">
+    <!---- boostrap.min link local ----->
+    <script src="js/bootstrap.min.js"></script>
+    <!---- Boostrap js link local ----->
+
+    <link rel="icon" href="images/icon.png" type="image/x-icon" />
+    <!---- Icon link local ----->
+
+</head>
+<body>
+    <form role="form" method="post">
+        
+            
+                <h2 class="text-center" id="title">Add Bike</h2>
+
+                    
+                        <fieldset style="text-align:center">
+                            <div class="form-group">
+                                <input type="text" name="ENGINE_ID" id="ENGINE_ID" class="form-control input-lg" placeholder="ENGINE ID">
+
+                            </div>
+
+                            <div class="form-group">
+                                <input type="text" name="REGSTR_ID" id="REGSTR_ID" class="form-control input-lg" placeholder="REGSTR ID">
+
+                            </div>
+
+                            <div class="form-group">
+
+                                @{List<BOL.BSP_BIKE_MODELS_ALL> allmodels = Model.ToList();
+                                    List<SelectListItem> item = allmodels.ConvertAll(a =>
+                                      {
+                                          return new SelectListItem()
+                                          {
+                                              Text = a.BRAND_NAME.ToString(),
+                                              Value = a.MODEL_CODE.ToString(),
+                                              Selected = false
+                                          };
+                                      });
+
+
+                                }
+                                <p>
+
+                                    @Html.DropDownList("modelid", new SelectList(item, "Value", "Text"), "Select Model", new { @class = "form-control" })
+
+                            </div>
+
+                            <div>
+                                <input type="submit" class="btn btn-lg btn-primary" value="Add Bike">
+                            </div>
+                        
+                    </fieldset>            
+    </form>
+</body>
+
+
+

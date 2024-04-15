@@ -1,0 +1,17 @@
+﻿@model BOL.BSP_CUSTOMER
+@{
+                /**/
+
+                ViewBag.Title = "HomePage";
+}
+
+<h2>Welcome @((Session["customer"] as BOL.BSP_CUSTOMER).F_NAME)!</h2>
+
+<div align="center">
+    <a href="../Customer/BookAppointment">Book Appointment</a><br /><br />
+    <a href="../Customer/AddBike">Add Bike</a><br /><br />
+    @*<a href="../Customer/AddAddress">Add Address</a><br /><br />*@
+    <a href="../Customer/ShowAppointments">Show Appointments</a><br /><br />
+</div>
+
+<a href="../Home/Index">Logout</a><br /><br />

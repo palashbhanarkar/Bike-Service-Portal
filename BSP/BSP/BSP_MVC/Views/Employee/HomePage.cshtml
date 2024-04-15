@@ -1,0 +1,14 @@
+﻿@model BOL.BSP_EMPLOYEE
+
+@{
+    ViewBag.Title = "EmployeeLogIn";
+}
+
+<h2>Welcome @((Session["employee"] as BOL.BSP_EMPLOYEE).FIRST_NAME)!</h2>
+
+<div align="center">
+    <a href="../Employee/AddAppointmentSlot">Add Appointment Slot</a><br /><br />
+    <a href="../Employee/AddBike">Add Bike</a><br /><br />
+    <a href="../Employee/AddJobCard">Add Job Card</a><br /><br />
+    <a href="../Employee/ShowAppointments">Show Appointments</a><br /><br />
+</div>
